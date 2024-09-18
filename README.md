@@ -34,7 +34,7 @@
       </ul>
       <!-- Other type of Softwares I like to use most of the time-->
       <h3 align="center">And I do like to spend some time in those tools</h3>
-      <ul type="none" class="tools">
+      <ul type="none" class="tools" align="center">
         <li><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/>
