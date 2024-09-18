@@ -27,10 +27,16 @@
       <li><img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Sony%20VEGAS-%231A1A1A?style=for-the-badge&logo=vegas&logoColor=white&logoSize=auto"/></li>
-            <li><img src=""/></li>
       <li><img src=""/></li>
       <li><img src=""/></li>
     </ul>
+    <h5>And I do like to spend some time in those tools</h5>
+    <ul class="tools">
+      <li><img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"/></li>
+      <li><img src=""/></li>
+    </ul>  
     <h3>Main O.S I've landed while distroHopping (I use Arch btw)</h3>
     <ul class="os">
       <li><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/></li>
