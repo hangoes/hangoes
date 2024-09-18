@@ -33,7 +33,7 @@
               <img src="https://img.shields.io/badge/KDEnlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&logoSize=auto"/></li>
       </ul>
       <!-- Other type of Softwares I like to use most of the time-->
-      <h3></h3>And I do like to spend some time in those tools</h3>
+      <h3>And I do like to spend some time in those tools</h3>
       <ul type="none" class="tools">
         <li><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
