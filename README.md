@@ -6,7 +6,7 @@
 <div class="MainContent">
   <div class="badges">
     <h5>Main skills and interests:</h5>
-    <ul class="logos">
+    <ul class="lang-logos">
       <!-- Badges & Logotipos. Via: https://simpleicons.org // https://shields.io/badges -->
       <li><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/></li>
@@ -14,6 +14,9 @@
       <li><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=black&logoSize=auto"/></li>
+    </ul>
+    <h3> I also have some other hard skills that I have been solidifying and improving through my whole life  
+    <ul class="otherskills">
       <li><img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Unity%203D-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white&logoSize=auto"/></li>
