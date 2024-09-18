@@ -4,7 +4,7 @@
 <hr>
 <br/>
 <div class="MainContent">
-  <a href="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto></a> 
+  <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/> 
 
 </div>
 
