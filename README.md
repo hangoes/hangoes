@@ -1,5 +1,5 @@
 <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="300px" width="600px"/>
-      Main skills and interests
+      <br/>
               <!-- Badges & Logotypes. Via: https://simpleicons.org // https://shields.io/badges -->
         <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/>
         <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/>
@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=black&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/>
+        <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/><br/>
       <!-- Theres some information about the Softwares I use -->
       <h4> I also have some other hard skills that I have been solidifying and improving through my whole life</h4>   
       <ul class="otherskills">
