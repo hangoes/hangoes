@@ -1,6 +1,6 @@
 <p align="center">
       <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="300px" width="600px"/>
-</p>
+
       <br/>
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
         <ul type="none" class="langlogo">
@@ -47,3 +47,4 @@
         <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Parrot%20O.S-%2315E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white&logoSize=auto"/></li>
   
+</p>
