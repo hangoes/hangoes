@@ -1,6 +1,6 @@
 <html>
   <div class="banner">
-    <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="10px" width="10px"/>
+    <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="100px" width="100px"/>
   </div>
   <hr>
   <br/>
