@@ -6,7 +6,7 @@
             Hi. I'm an SDA Student. It all started many years ago - when I was a toddler, to be more specific. I went from playing SMW to my very first contact with RATS. 
       </p>  
       <br/>
-      <h3 align="center">The languages that I currently have knowledge are</h3> 
+      <h3 align="center">Those are some of the stuff that I currently have knowledge; </h3> 
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
         <ul type="none" class="langlogo">
               <li type="none"><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/>
@@ -17,13 +17,8 @@
               <img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=black&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto"/>
-              <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/></li>
-        </ul>     
-        <br/>
-      <!-- Theres some information about the Softwares I use -->
-      <ul type="none" class="softlogos">
-              <h3 align="center">I also have some other hard skills that I have been solidifying and improving through my whole life</h3>   
-              <li type="none"><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/>
+              <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/></li>   
+              <img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Unity%203D-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white&logoSize=auto"/>
@@ -31,14 +26,10 @@
               <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Sony%20VEGAS-%231A1A1A?style=for-the-badge&logo=vegas&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/KDEnlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&logoSize=auto"/></li>
-      </ul>
-      <!-- Other type of Softwares I like to use most of the time-->
-      <h3 align="center">And I do like to spend some time in those tools</h3>
-      <ul type="none" class="tools">
-        <li align="center"><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"/></li>
+              <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/>
+              <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
+              <img src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/>
+              <img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"/></li>
         </ul>  
       <br/>
       <!-- And These are some of the O.S that I have ever use in my life -->
