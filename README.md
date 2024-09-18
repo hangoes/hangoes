@@ -5,6 +5,8 @@
       <p align="center">
             Hi. I'm an SDA Student. It all started many years ago - when I was a toddler, to be more specific. I went from playing SMW to my very first contact with RATS. 
       </p>  
+      <br/>
+      #The languages that I currently have knowledge are  
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
         <ul type="none" class="langlogo">
               <li type="none"><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/>
@@ -20,7 +22,7 @@
         <br/>
       <!-- Theres some information about the Softwares I use -->
       <ul type="none" class="softlogos">
-            <h4> I also have some other hard skills that I have been solidifying and improving through my whole life</h4>   
+             ##I also have some other hard skills that I have been solidifying and improving through my whole life   
               <li type="none"><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Unity%203D-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto"/>
@@ -31,7 +33,7 @@
               <img src="https://img.shields.io/badge/KDEnlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&logoSize=auto"/></li>
       </ul>
       <!-- Other type of Softwares I like to use most of the time-->
-      <h4>And I do like to spend some time in those tools</h4>
+      ##And I do like to spend some time in those tools
       <ul type="none" class="tools">
         <li><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
@@ -40,7 +42,7 @@
         </ul>  
       <br/>
       <!-- And These are some of the O.S that I have ever use in my life -->
-      <h3>Main O.S that I have landed on while distroHopping (I use Arch btw)</h3>
+      #Main O.S that I have landed on while distroHopping (I use Arch btw)
       <ul type="none" class="os">
         <li><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"/>
