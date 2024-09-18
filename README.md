@@ -1,6 +1,9 @@
 <html>
+  <head>
+    
+  </head>
   <div class="banner">
-    <img src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" />
+    <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" />
   </div>
   <hr>
   <br/>
@@ -36,6 +39,7 @@
       <!-- Other type of Softwares I like to use most of the time-->
       <h5>And I do like to spend some time in those tools</h5>
       <ul class="tools">
+        <li><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"/></li>
