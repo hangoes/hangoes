@@ -23,7 +23,7 @@
       <li><img src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/></li>
-      <li><img src=""/></li>
+      <li><img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&logoSize=auto"/></li>
       <li><img src=""/></li>
       <li><img src=""/></li>
       <li><img src=""/></li>
