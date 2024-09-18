@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=black&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/></li>
+        <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto" onclick="return false"/></li>
         <br/>
       <!-- Theres some information about the Softwares I use -->
       <h4> I also have some other hard skills that I have been solidifying and improving through my whole life</h4>   
