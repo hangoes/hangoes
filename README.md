@@ -2,7 +2,7 @@
       <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="300px" width="600px"/>
 </p>      
       <br/>
-      <p>
+      <p align="justify">
             Hi. I'm an SDA Student. It all started many years ago, when I was a toddler, to be more specific. I went from playing SMW to my very first contact with RATS. 
       </p>  
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
