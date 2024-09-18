@@ -6,7 +6,7 @@
             Hi. I'm an SDA Student. It all started many years ago - when I was a toddler, to be more specific. I went from playing SMW to my very first contact with RATS. 
       </p>  
       <br/>
-      # The languages that I currently have knowledge are  
+      __The languages that I currently have knowledge are__  
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
         <ul type="none" class="langlogo">
               <li type="none"><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/>
