@@ -14,12 +14,28 @@
       <li><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=black&logoSize=auto"/></li>
-      <li><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto"/></li>
-      <li><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto"/></li>
-      <li><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto"/></li>
-      <li><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto"/></li>
-      
+      <li><img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Unity%203D-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/></li>
+      <li><img src=""/></li>
+      <li><img src=""/></li>
+      <li><img src=""/></li>
+      <li><img src=""/></li>
+      <li><img src=""/></li>
     </ul>
+    <h3>Main O.S I've landed while distroHopping (I use Arch btw)</h3>
+    <ul class="os">
+      <li><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Mint%20Linux-%2386BE43?style=for-the-badge&logo=linuxmint&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Backtrack%205-%23b51f33?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Parrot%20O.S-%2315E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white&logoSize=auto"/></li>
+    </ul>  
   </div>
 </div>
 
