@@ -12,7 +12,6 @@
         <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/><br/>
       <!-- Theres some information about the Softwares I use -->
       <h4> I also have some other hard skills that I have been solidifying and improving through my whole life</h4>   
-      <ul class="otherskills">
         <li><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/Unity%203D-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto"/></li>
@@ -21,8 +20,6 @@
         <li><img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/Sony%20VEGAS-%231A1A1A?style=for-the-badge&logo=vegas&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/KDEnlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&logoSize=auto"/></li>
-      </ul>
-      <br/>
       <!-- Other type of Softwares I like to use most of the time-->
       <h4>And I do like to spend some time in those tools</h4>
       <ul class="tools">
