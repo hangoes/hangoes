@@ -1,5 +1,3 @@
-![23](img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto")
-
 <p align="center">
       <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="300px" width="600px"/>
 </p>      
@@ -8,7 +6,7 @@
             Hi. I'm an SDA Student. It all started many years ago - when I was a toddler, to be more specific. I went from playing SMW to my very first contact with RATS. 
       </p>  
       <br/>
-      __The languages that I currently have knowledge are__  
+      <h3 align="center">The languages that I currently have knowledge are</h3> 
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
         <ul type="none" class="langlogo">
               <li type="none"><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/>
