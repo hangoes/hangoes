@@ -20,15 +20,14 @@
     </ul>
     <h5> I also have some other hard skills that I have been solidifying and improving through my whole life</h5>   
     <ul class="otherskills">
-      <li><img src="https://img.shields.io/badge/Renpy-%23FF7F7F?style=for-the-badge&logo=renpy&logoColor=white&logoSize=auto"/></li>
+      <li><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Unity%203D-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoSize=auto"/></li>
       <li><img src="https://img.shields.io/badge/Sony%20VEGAS-%231A1A1A?style=for-the-badge&logo=vegas&logoColor=white&logoSize=auto"/></li>
-      <li><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/></li>
-      <li><img src=""/></li>
+            <li><img src=""/></li>
       <li><img src=""/></li>
       <li><img src=""/></li>
     </ul>
