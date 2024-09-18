@@ -14,7 +14,7 @@
         <br/>
       <!-- Theres some information about the Softwares I use -->
       <h4> I also have some other hard skills that I have been solidifying and improving through my whole life</h4>   
-        <li><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/>
+        <li type="none"><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Unity%203D-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white&logoSize=auto"/>
