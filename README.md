@@ -9,7 +9,7 @@
   <br/>
   <div class="MainContent">
     <div class="badges">
-      <h1>Main skills and interests</h1>
+      <h3>Main skills and interests</h3>
       <ul class="lang-logos">
         <!-- Badges & Logotypes. Via: https://simpleicons.org // https://shields.io/badges -->
         <li><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/></li>
@@ -24,7 +24,7 @@
       </ul>
       <br/>
       <!-- Theres some information about the Softwares I use -->
-      <h3> I also have some other hard skills that I have been solidifying and improving through my whole life</h3>   
+      <h4> I also have some other hard skills that I have been solidifying and improving through my whole life</h4>   
       <ul class="otherskills">
         <li><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/></li>
@@ -37,7 +37,7 @@
       </ul>
       <br/>
       <!-- Other type of Softwares I like to use most of the time-->
-      <h3>And I do like to spend some time in those tools</h3>
+      <h4>And I do like to spend some time in those tools</h4>
       <ul class="tools">
         <li><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/></li>
@@ -46,7 +46,7 @@
         </ul>  
       <br/>
       <!-- And These are some of the O.S that I have ever use in my life -->
-      <h1>Main O.S that I have landed on while distroHopping (I use Arch btw)</h1>
+      <h3>Main O.S that I have landed on while distroHopping (I use Arch btw)</h3>
       <ul class="os">
         <li><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"/></li>
