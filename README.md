@@ -1,6 +1,13 @@
 <html>
   <head>
-    
+    <!-- Some basic formats --> 
+    <style type="text/css">
+      .MyHelloWorld{
+        height = 10px;
+        width = 10px;
+      }
+        
+    </style>  
   </head>
   <div class="banner">
     <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" />
