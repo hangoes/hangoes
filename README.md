@@ -17,7 +17,7 @@
               <img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=black&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto"/>
-              <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/></li>   
+              <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/>   
               <img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Unity%203D-black?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto"/>
@@ -25,7 +25,7 @@
               <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Sony%20VEGAS-%231A1A1A?style=for-the-badge&logo=vegas&logoColor=white&logoSize=auto"/>
-              <img src="https://img.shields.io/badge/KDEnlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&logoSize=auto"/></li>
+              <img src="https://img.shields.io/badge/KDEnlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/>
