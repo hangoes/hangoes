@@ -7,7 +7,7 @@
   <div class="MainContent">
     <div class="badges">
       <h3>Main skills and interests</h3>
-      <ul class="lang-logos">
+      <ul type="none" display="inline" class="lang-logos">
         <!-- Badges & Logotypes. Via: https://simpleicons.org // https://shields.io/badges -->
         <li><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/></li>
         <li><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/></li>
