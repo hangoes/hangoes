@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/KDEnlive-%23527EB2?style=for-the-badge&logo=kdenlive&logoColor=white&logoSize=auto"/></li>
       <!-- Other type of Softwares I like to use most of the time-->
       <h4>And I do like to spend some time in those tools</h4>
-      <ul class="tools">
+      <ul type="none" class="tools">
         <li><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/>
@@ -33,7 +33,7 @@
       <br/>
       <!-- And These are some of the O.S that I have ever use in my life -->
       <h3>Main O.S that I have landed on while distroHopping (I use Arch btw)</h3>
-      <ul class="os">
+      <ul type="none" class="os">
         <li><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Mint%20Linux-%2386BE43?style=for-the-badge&logo=linuxmint&logoColor=white&logoSize=auto"/>
