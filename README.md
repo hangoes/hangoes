@@ -6,7 +6,7 @@
             Hi. I'm an SDA Student. It all started many years ago - when I was a toddler, to be more specific. I went from playing SMW to my very first contact with RATS. 
       </p>  
       <br/>
-      <h3 align="center">Those are some of the stuff that I currently have knowledge; </h3> 
+      <h3 align="center">Those are some of the stuff that I'm currently into; </h3> 
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
         <ul type="none" class="langlogo">
               <li type="none"><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/>
