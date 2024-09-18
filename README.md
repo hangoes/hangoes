@@ -1,7 +1,7 @@
 <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="300px" width="600px"/>
       <br/>
               <!-- Badges & Logotypes. Via: https://simpleicons.org // https://shields.io/badges -->
-        <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/>
+        ![](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto)
         <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"/>
