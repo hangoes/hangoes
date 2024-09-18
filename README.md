@@ -1,12 +1,5 @@
 <html>
-  <head>
-    <style>
-      ul{
-        style=none;
-      }
-    </style>
-  </head>
-  <div class="banner">
+    <div class="banner">
     <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="300px" width="600px"/>
   </div>
   <hr>
