@@ -5,6 +5,7 @@
 <br/>
 <div class="MainContent">
   <div class="badges">
+    <h5>Main skills and interests:</h5>
     <ul class="logos">
       <!-- Badges & Logotipos. Via: https://simpleicons.org // https://shields.io/badges -->
       <li><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/></li>
