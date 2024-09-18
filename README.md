@@ -36,9 +36,9 @@
       <h3 align="center">And I do like to spend some time in those tools</h3>
       <ul type="none" class="tools">
         <li><img align="center" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"/></li>
+        <img align="center" src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
+        <img align="center" src="https://img.shields.io/badge/VSCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&logoSize=auto"/>
+        <img align="center" src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white&logoSize=auto"/></li>
         </ul>  
       <br/>
       <!-- And These are some of the O.S that I have ever use in my life -->
