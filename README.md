@@ -1,15 +1,16 @@
 <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld" height="300px" width="600px"/>
       <br/>
-              <!-- Badges & Logotypes. Via: https://simpleicons.org // https://shields.io/badges -->
-        <li><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/></li>
-        <li><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/></li>
+        <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
+        <li><img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoSize=auto"/>
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=black&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=c&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto"/>
-        <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/></li><br/>
+        <img src="https://img.shields.io/badge/Borland%20Delphi-%23E62431?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto"/></li>
+        <br/>
       <!-- Theres some information about the Softwares I use -->
       <h4> I also have some other hard skills that I have been solidifying and improving through my whole life</h4>   
         <li><img src="https://img.shields.io/badge/Libre%20Office-%2318A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto"/></li>
