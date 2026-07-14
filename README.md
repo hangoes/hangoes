@@ -1,8 +1,10 @@
-<p align="center">
+<div align="center">
      <!-- <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld"/> -->
       <img src="https://media.tenor.com/_1q7BJmxujYAAAAM/mask-anonymous.gif"/>
-</p>      
+      "[...] 𝑯𝒆 𝒘𝒉𝒐 𝒉𝒂𝒔 𝒂 𝒘𝒉𝒚 𝒕𝒐 𝒍𝒊𝒗𝒆 𝒇𝒐𝒓 𝒄𝒂𝒏 𝒃𝒆𝒂𝒓 𝒂𝒍𝒎𝒐𝒔𝒕 𝒂𝒏𝒚 𝒉𝒐𝒘."
+</div>      
       <br/>
+      <h2 align="center"> Welcome. Hope you're doing fine. Here's some stuff about me:</h2>
         <h3 align="center">Development Stack: </h3> 
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
         <div align="center">
