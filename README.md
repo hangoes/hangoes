@@ -1,5 +1,6 @@
 <p align="center">
-      <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld"/>
+     <!-- <img class="MyHellowWorld" src="https://github.com/user-attachments/assets/fe72871e-6435-491d-84a1-d2723a849878" alt="MyHelloWorld"/> -->
+      <img src="https://media.tenor.com/_1q7BJmxujYAAAAM/mask-anonymous.gif"/>
 </p>      
       <br/>
         <h3 align="center">Development Stack: </h3> 
