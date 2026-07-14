@@ -22,6 +22,7 @@
               <img src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white">
               <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">      
               <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+              <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624">     
               <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED">   
               </li>
         </ul>
@@ -53,9 +54,9 @@
 <div align="center">
       <!-- And These are some of the O.S that I have ever use in my life -->
       <h3 align="center">Favorite Distros Workstation (I use Arch btw)</h3>
-      <ul type="none" class="os" style="text-align: center;>
+      <ul type="none" class="os" style="text-align: center;">
         <li>
-        <img src="https://img.shields.io/badge/Arch%20Linux-%2331A8FF?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/>
+           <img src="https://img.shields.io/badge/Arch%20Linux-%2331A8FF?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"/>
         <h3 align="center">Favorite Pentesting Distros Workstantions</h3>
