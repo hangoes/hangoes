@@ -58,5 +58,5 @@
         <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Parrot%20O.S-%2315E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white&logoSize=auto"/></li>
         <h3>Find me.</h3>
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-        https://www.youtube.com/@kernelrot
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/@kernelrot">
+        
