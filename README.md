@@ -8,7 +8,7 @@
         <ul type="none" class="langlogo" style="text-align: center;>
               <li type="none"> 
               <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/>
-              <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031">
+              <img src="https://img.shields.io/badge/Angular-%237C3AED?style=for-the-badge&logo=angular&logoColor=DD0031">
               <img src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">                 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
               <img src="https://img.shields.io/badge/Reactjs-%230088CC?style=for-the-badge&logo=react&logoColor=white">
               <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
