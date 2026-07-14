@@ -4,6 +4,7 @@
       <br/>
         <h3 align="center">Development Stack: </h3> 
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
+        <div align="center">
         <ul type="none" class="langlogo" style="text-align: center;>
               <li type="none"> 
               <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/>
@@ -22,6 +23,9 @@
               <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
               <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED">   
               </li>
+        </ul>
+</div>
+<div align="center">
               <h3 align="center">Tools and hobbies: </h3> 
               <ul type="none" class="langlogo" style="text-align: center;>
               <li type="none">
@@ -44,8 +48,10 @@
               <img src="https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto"/>
               </li>
         </ul>  
+</div>
         <br/>
       <br/>
+<div align="center">
       <!-- And These are some of the O.S that I have ever use in my life -->
       <h3 align="center">Favorite Distros Workstation (I use Arch btw)</h3>
       <ul type="none" class="os" style="text-align: center;>
@@ -59,4 +65,5 @@
         <img src="https://img.shields.io/badge/Parrot%20O.S-%2315E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white&logoSize=auto"/></li>
         <h3 align="center">Find me.</h3>
            <a href="https://www.youtube.com/@kernelrot"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+           </div>
         
