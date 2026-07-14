@@ -5,7 +5,7 @@
         <h3 align="center">Development Stack: </h3> 
         <!-- Badges & Logotypes. Via: https://simpleicons.org  // https://shields.io/badges | I couldn't find any other way to align the elements other than this ¯\_₍ッ₎_/¯ -->
         <ul type="none" class="langlogo">
-              <li type="none"> 
+              <li align="center" type="none"> 
               <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto"/>
               <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031">
               <img src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">      
