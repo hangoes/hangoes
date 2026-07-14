@@ -53,7 +53,9 @@
         <img src="https://img.shields.io/badge/Arch%20Linux-%2331A8FF?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto"/>
-        <p>(For pentesting)</p>
+        <center><p>(For pentesting)</p></center>
         <img src="https://img.shields.io/badge/Black%20Arch-black?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"/>
         <img src="https://img.shields.io/badge/Parrot%20O.S-%2315E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white&logoSize=auto"/></li>
+        <style></style>
+        https://www.youtube.com/@kernelrot
